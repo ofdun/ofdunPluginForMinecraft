@@ -1,0 +1,13 @@
+main: ofdun.minecraft.plugin.App
+name: ofdun-plugin
+version: 0.1
+
+commands:
+    bebra:
+        description: Даёт тебе бебру!
+        usage: /<command>
+        permission: ofdun-plugin.bebra
+    squirt:
+        description: Позволяет сквритить!
+        usage: /<command>
+        permission: ofdun-plugin.squirt
